@@ -1,6 +1,6 @@
 .Descriptions .title-text{
 	text-decoration: underline;
-	text-decoration-color: pink;
+	text-decoration-color:black;
 	text-align: center;
 	letter-spacing: 1px
 }
@@ -9,5 +9,5 @@
 	text-align: left;
 	margin-top: 1.5rem;
 	letter-spacing: 2px;
-	color: grey
+	color: black
 }
